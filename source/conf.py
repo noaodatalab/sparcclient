@@ -22,7 +22,7 @@ copyright = '2021, S.Pothier, A.Jacques'
 author = 'S.Pothier, A.Jacques'
 
 # The full version, including alpha/beta/rc tags
-release = 'Alpha-3'
+release = 'Alpha'
 
 
 # -- General configuration ---------------------------------------------------
